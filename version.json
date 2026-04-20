@@ -1,6 +1,6 @@
 {
  
-  "version": "V2.1.1",
+  "version": "V2.1.2",
   "_comment_version": "版本号格式：V主版本.次版本.修订号",
   
   "version_type": "正式版本",
@@ -21,7 +21,7 @@
   "_comment_update_section": "【主要】仅 exe 文件更新（应用内自动更新）",
   "update_type": "exe_only",
   "_comment_update_type": "exe_only=仅更新exe文件, full=完整更新(包含依赖库)",
-  "download_url": "https://github.com/GitCheney/CC_AutoTest_Update/releases/download/V2.1.1/CC_AutoTest_V2.1.1.exe",
+  "download_url": "https://github.com/GitCheney/CC_AutoTest_Update/releases/download/V2.1.2/CC_AutoTest_V2.1.2.exe",
   "_comment_download_url": "应用内自动更新的下载地址（直接指向exe文件）",
   "file_size_mb": 6.12,
   "_comment_file_size": "exe文件大小（MB），用于显示下载进度",
