@@ -9,7 +9,7 @@
   "show_update_dialog": true,
   "_comment_show_dialog": "true=弹窗提示更新, false=仅在日志中提示",
   
-  "force_update": false,
+  "force_update": true,
   "_comment_force_update": "true=强制更新(必须更新), false=可选更新(可忽略)",
 
   "_comment_installer_section": "【可选】Inno Setup 完整安装程序（给首次安装用户）",
