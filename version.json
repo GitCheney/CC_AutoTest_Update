@@ -5,7 +5,7 @@
   "_comment_scenario": "适用场景：修复bug、优化代码、UI调整",
   "_comment": "========================================",
   
-  "version": "V2.0.4",
+  "version": "V2.1.1",
   "_comment_version": "版本号格式：V主版本.次版本.修订号",
   
   "version_type": "正式版本",
@@ -22,9 +22,9 @@
   "_comment_installer_file": "文件：Setup_CC_AutoTest_V2.0.4.exe (约90MB)",
   "_comment_separator_2": "========================================",
   
-  "installer_url": "https://gitee.com/你的用户名/仓库名/releases/download/v2.0.4/Setup_CC_AutoTest_V2.0.4.exe",
-  "installer_size_mb": 89.7,
-  "installer_md5": "请填写安装程序的MD5值",
+  "installer_url": "https://github.com/GitCheney/CC_AutoTest_Update/releases/download/V2.1.0/Setup_CC_AutoTest_V2.1.0.exe",
+  "installer_size_mb": 87.6,
+  "installer_md5": "5de92c0634d178388be66dad8edd16a9",
   
   "_comment_separator_3": "========================================",
   "_comment_update_section": "【主要】仅 exe 文件更新（应用内自动更新）",
@@ -35,13 +35,13 @@
   "update_type": "exe_only",
   "_comment_update_type": "exe_only=仅更新exe文件, full=完整更新(包含依赖库)",
   
-  "download_url": "https://gitee.com/你的用户名/仓库名/releases/download/v2.0.4/CC_AutoTest_V2.0.4.exe",
+  "download_url": "https://github.com/GitCheney/CC_AutoTest_Update/releases/download/V2.1.1/CC_AutoTest_V2.1.1.exe",
   "_comment_download_url": "应用内自动更新的下载地址（直接指向exe文件）",
   
-  "file_size_mb": 6.07,
+  "file_size_mb": 6.11,
   "_comment_file_size": "exe文件大小（MB），用于显示下载进度",
   
-  "md5": "请填写exe文件的MD5值",
+  "md5": "a26724f466d4e33fed6667d0bdd57d4f",
   "_comment_md5": "MD5校验值，用于验证文件完整性（强烈建议填写）",
   
   "_comment_separator_5": "========================================",
