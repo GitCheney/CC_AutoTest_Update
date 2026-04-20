@@ -16,7 +16,7 @@
   "_comment_installer_file": "文件：Setup_CC_AutoTest_V2.0.4.exe (约90MB)",
   "installer_url": "https://github.com/GitCheney/CC_AutoTest_Update/releases/download/V2.1.0/Setup_CC_AutoTest_V2.1.0.exe",
   "installer_size_mb": 87.6,
-  "installer_md5": "5de92c0634d178388be66dad8edd16a9",
+  "installer_md5": "4cf0fbaadf3e91d159a9e07683aed60d",
   
   "_comment_update_section": "【主要】仅 exe 文件更新（应用内自动更新）",
   "update_type": "exe_only",
