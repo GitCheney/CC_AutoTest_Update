@@ -1,0 +1,79 @@
+{
+  "_comment": "========================================",
+  "_comment_title": "频谱仪自动测试工具 - 版本配置文件",
+  "_comment_type": "更新类型：仅 exe 文件（小版本更新）",
+  "_comment_scenario": "适用场景：修复bug、优化代码、UI调整",
+  "_comment": "========================================",
+  
+  "version": "V2.0.4",
+  "_comment_version": "版本号格式：V主版本.次版本.修订号",
+  
+  "version_type": "正式版本",
+  "_comment_version_type": "可选值：正式版本 | 内测版本 | 公测版本",
+  
+  "show_update_dialog": true,
+  "_comment_show_dialog": "true=弹窗提示更新, false=仅在日志中提示",
+  
+  "force_update": false,
+  "_comment_force_update": "true=强制更新(必须更新), false=可选更新(可忽略)",
+  
+  "_comment_separator_1": "========================================",
+  "_comment_installer_section": "【可选】Inno Setup 完整安装程序（给首次安装用户）",
+  "_comment_installer_file": "文件：Setup_CC_AutoTest_V2.0.4.exe (约90MB)",
+  "_comment_separator_2": "========================================",
+  
+  "installer_url": "https://gitee.com/你的用户名/仓库名/releases/download/v2.0.4/Setup_CC_AutoTest_V2.0.4.exe",
+  "installer_size_mb": 89.7,
+  "installer_md5": "请填写安装程序的MD5值",
+  
+  "_comment_separator_3": "========================================",
+  "_comment_update_section": "【主要】仅 exe 文件更新（应用内自动更新）",
+  "_comment_update_file": "文件：CC_AutoTest_V2.0.4.exe (约6MB)",
+  "_comment_update_note": "注意：直接上传exe文件，无需压缩成zip",
+  "_comment_separator_4": "========================================",
+  
+  "update_type": "exe_only",
+  "_comment_update_type": "exe_only=仅更新exe文件, full=完整更新(包含依赖库)",
+  
+  "download_url": "https://gitee.com/你的用户名/仓库名/releases/download/v2.0.4/CC_AutoTest_V2.0.4.exe",
+  "_comment_download_url": "应用内自动更新的下载地址（直接指向exe文件）",
+  
+  "file_size_mb": 6.07,
+  "_comment_file_size": "exe文件大小（MB），用于显示下载进度",
+  
+  "md5": "请填写exe文件的MD5值",
+  "_comment_md5": "MD5校验值，用于验证文件完整性（强烈建议填写）",
+  
+  "_comment_separator_5": "========================================",
+  "_comment_notes_section": "更新说明",
+  "_comment_separator_6": "========================================",
+  
+  "update_notes": [
+    "修复了标题栏图标和文字显示问题",
+    "优化了自动更新流程",
+    "修复了版本检查的线程安全问题",
+    "优化了内存使用"
+  ],
+  "_comment_update_notes": "更新说明列表，每条一行，会显示在更新对话框中",
+  
+  "_comment_separator_7": "========================================",
+  "_comment_previous_section": "上一版本信息（用于回退功能）",
+  "_comment_previous_note": "如果用户需要回退，会从这里下载上一版本",
+  "_comment_separator_8": "========================================",
+  
+  "previous_version": {
+    "version": "V2.0.3",
+    "update_type": "exe_only",
+    "download_url": "https://gitee.com/你的用户名/仓库名/releases/download/v2.0.3/CC_AutoTest_V2.0.3.exe",
+    "md5": "请填写上一版本的MD5值"
+  },
+  
+  "_comment_separator_9": "========================================",
+  "_comment_howto_title": "使用说明",
+  "_comment_howto_1": "1. 修改上面的版本号、下载链接",
+  "_comment_howto_2": "2. 计算文件MD5并填入（PowerShell: Get-FileHash 文件名 -Algorithm MD5）",
+  "_comment_howto_3": "3. 填写更新说明",
+  "_comment_howto_4": "4. 上传此文件到 Gitee 仓库根目录",
+  "_comment_howto_5": "5. 在代码中配置 VERSION_URL 指向此文件的 raw 地址",
+  "_comment_separator_10": "========================================"
+}
